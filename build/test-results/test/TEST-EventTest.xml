@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="EventTest" tests="22" skipped="0" failures="0" errors="0" timestamp="2017-07-02T08:54:38" hostname="Alenas-MacBook-Pro.local" time="0.007">
+  <properties/>
+  <testcase name="isDJFRee_80DinnerAlcohol_true" classname="EventTest" time="0.002"/>
+  <testcase name="newEvent_calculateTotalDinnerFor10_200" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalDrinksFor10_0" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_getsEntertainmentChoice_entertainment" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalClown_100" classname="EventTest" time="0.0"/>
+  <testcase name="isDJFRee_80DinnerSoft_false" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateGrandTotal4Guests_0" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_getsFoodChoice_food" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_getsDrinksChoice_drinks" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateGrandTotalDiscount_220" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalAlcoholFor10_70" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalNoEntertainment_0" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateGrandTotal10Guests_270" classname="EventTest" time="0.001"/>
+  <testcase name="newEvent_calculateTotalGuests1000_0" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalGuests10_150" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalGuests25_230" classname="EventTest" time="0.001"/>
+  <testcase name="newEvent_calculateTotalSnacksFor10_100" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalGuests99_300" classname="EventTest" time="0.001"/>
+  <testcase name="newEvent_getsGuestNumber_10" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalLiveMusic_150" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalSoftDrinksFor10_20" classname="EventTest" time="0.0"/>
+  <testcase name="newEvent_calculateTotalFoodFor10_0" classname="EventTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
