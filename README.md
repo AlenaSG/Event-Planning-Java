@@ -22,8 +22,8 @@ This application is an individual project finishing week 1 Java at Epicodus, dem
 |If the user enters their guest count 80+, Dinner and Alcoholic drinks they get a free DJ|guest number: 80, food choice: Dinner, drinks choice: Alcoholic, entertainment choice: no|Your party got a free DJ!|
 
 Guest total: 5-20 guests - $150; 21-50 guest - $230; 51-100 guests - $300;
-Food total: dinner=20*guest number; snacks=10*guest number;
-Drinks total: soft drinks = 2* guest number; alcohol = 7*guest number;
+Food total: dinner = 20 * guest number; snacks = 10 * guest number;
+Drinks total: soft drinks = 2 * guest number; alcohol = 7 * guest number;
 Entertainment: clown - $10; live music - $ 100;
 Grand total = Guest total + Food total + Drinks total + entertainment;
 Discount  - FIFTYoff - $50;
